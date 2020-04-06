@@ -8,11 +8,13 @@ develops as the intake drops below ambient pressure. The Throttle Body is the pa
 the amount of air flowing into the engine, in response to driver accelerator pedal input in the main. 
 
 Electronically Controlled Throttle Body:
+
 Electronic throttle control is an automobile technology which electronically "connects" the accelerator pedal to the throttle,
 replacing a mechanical linkage. Electronic throttle controls establish the essential connection between the acceleration pedal
 and the throttle valve using electronic signals instead of a mechanical link.
 
 Accomplishment:
+
 Successfully created a prototype of Electronically controlled throttle body with the help of following components:
 1. LM 339 comparator IC 
 2. L293D Motor Driver IC
